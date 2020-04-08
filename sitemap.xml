@@ -2,9 +2,30 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
-    <loc>http://yoursite.com/post/2020-04-06-hello-world/</loc>
+    <loc>https://suarge.github.io/post/2020-04-08-hello-world/</loc>
     
-    <lastmod>2020-04-07T12:29:27.817Z</lastmod>
+    <lastmod>2020-04-08T07:25:36.193Z</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>https://suarge.github.io/tags/index.html</loc>
+    
+    <lastmod>2020-04-08T06:40:00.755Z</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>https://suarge.github.io/about/index.html</loc>
+    
+    <lastmod>2020-04-08T06:39:46.740Z</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>https://suarge.github.io/categories/index.html</loc>
+    
+    <lastmod>2020-04-08T06:39:30.493Z</lastmod>
     
   </url>
   
