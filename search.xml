@@ -377,7 +377,7 @@
       </tags>
   </entry>
   <entry>
-    <title>redis底层数据结构</title>
+    <title>redis多机数据库的实现(主从复制，哨兵，集群)</title>
     <url>/post/2020-04-25-redis%E5%A4%9A%E6%9C%BA%E6%95%B0%E6%8D%AE%E5%BA%93%E7%9A%84%E5%AE%9E%E7%8E%B0(%E4%B8%BB%E4%BB%8E%E5%A4%8D%E5%88%B6%EF%BC%8C%E5%93%A8%E5%85%B5%EF%BC%8C%E9%9B%86%E7%BE%A4)/</url>
     <content><![CDATA[<h2 id="第三部分-多机数据库的实现"><a href="#第三部分-多机数据库的实现" class="headerlink" title="第三部分 多机数据库的实现"></a>第三部分 多机数据库的实现</h2><h3 id="一、复制"><a href="#一、复制" class="headerlink" title="一、复制"></a>一、复制</h3><blockquote>
 <p>redis中，用户可以通过执行SALAVEOF命令或者设置salveof选项，让一个服务器去复制另一个服务器，被复制的服务器为主服务器，对主服务器进行复制的是从服务器。进行复制中的主从服务器双方的数据库将保存相同的数据，概念上将这种现象称作“数据库一致”。</p>
